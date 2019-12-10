@@ -8,4 +8,8 @@ https://github.com/angrun/flutter_app
 Mobile app
 -----------
 
-https://github.com/angrun/hack2019-angular
+[angular v](https://github.com/angrun/hack2019-angular)
+
+[plain JS](https://github.com/angrun/web-app-ultrahack)
+
+
